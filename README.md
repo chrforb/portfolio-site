@@ -1,36 +1,88 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Christian Forbes — Portfolio
 
-## Getting Started
+Personal portfolio website showcasing my work in software development, data analytics, and human-centered design.
 
-First, run the development server:
+## Live Site
+
+Coming soon.
+
+## About
+
+I'm an Informatics student at Indiana University with interests in full-stack development, backend systems, data analytics, and human-centered design.
+
+This portfolio highlights projects across several areas of informatics, including REST API development, statistical analysis and visualization, and interactive UX prototyping.
+
+## Featured Projects
+
+### Hotel Booking System API
+
+A RESTful backend API for managing hotels, rooms, guests, bookings, amenities, and authentication workflows.
+
+**Technologies:** PHP, Slim Framework, MySQL, REST APIs, JWT
+
+Highlights include:
+
+- Relational database design
+- CRUD API development
+- Authentication and protected routes
+- API testing with Postman
+
+### European Soccer Analytics
+
+An R-based data analytics project analyzing 25,000+ European soccer matches to investigate tactical patterns and league identities.
+
+**Technologies:** R, RStudio, PCA, Clustering, Statistical Modeling, Data Visualization
+
+Highlights include:
+
+- Data cleaning and transformation
+- Clustering analysis
+- Principal Component Analysis
+- Decision-tree and regression analysis
+- Tactical data visualizations
+
+### MentalTrack — Mental Wellness App
+
+An interactive mental wellness prototype designed using user-centered research and human-computer interaction principles.
+
+**Technologies:** Figma, UX Research, HCI, Interactive Prototyping, Accessibility
+
+Highlights include:
+
+- User research and personas
+- Interactive Figma prototype
+- Emotional check-ins
+- Self-care tools
+- Routine and progress tracking
+
+## Built With
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+
+## Running Locally
+
+Clone the repository and install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Then open `http://localhost:3000` in your browser.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Links
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- GitHub: https://github.com/chrforb
+- LinkedIn: https://www.linkedin.com/in/christian-l-forbes/
 
-## Learn More
+## Contact
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Contact information and my resume are available through the portfolio website.
