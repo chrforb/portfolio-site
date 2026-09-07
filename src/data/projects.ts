@@ -42,14 +42,14 @@ export const projects = [
     stack: [
       "R",
       "RStudio",
-      "Statistical Modeling",
-      "Clustering",
+      "Data Preprocessing",
+      "K-Means",
       "PCA",
       "Data Visualization",
     ],
 
     description:
-      "Analyzed 25,000+ European soccer matches to identify tactical patterns, league similarities, and broader tactical identities.",
+      "European Soccer Analytics Research: Analyzed and preprocessed a dataset of 25,000+ European soccer matches and used K-means clustering and PCA to identify tactical patterns across 11 leagues.",
 
     highlights: [
       "Cleaned and analyzed a large European soccer dataset",
